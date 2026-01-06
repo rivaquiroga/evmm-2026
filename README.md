@@ -5,17 +5,50 @@ En este documento se encuentran los enlaces para acceder a los materiales que ut
 
 ---
 
-## Ejemplo 1: extraer el texto de una página web
+## Atajos de teclado útiles
+
+Los siguientes atajos de teclado serán útiles al explorar las páginas web que _escrapearemos_.
+
+| Acción | Windows / Linux | Mac |
+|---|---|---|
+| Ver el código fuente de una página | ctrl +  u | command + u|
+| Abrir el panel de desarrollo | F12<br/>ctrl + shift + i | F12<br/>option + command +i |
+| Abrir el panel de desarrollo con la opción de selección activada | ctrl + shift + c | option/ctrl + command + c |
+
+
+## Enlaces ejemplos
+
+A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para discutir algunas ideas. 
+
+:link: [Sitio web estático](https://prensa.presidencia.cl/)
+
+:link: [Sitio web dinámico](https://www.camara.cl/transparencia/asesoriasexternasgral.aspx)
+
+:link: [Condiciones de uso](https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou) 
+
+:link: [Licenciamiento y uso del contenido 1](https://www.biobiochile.cl/)
+
+:link: [Licenciamiento y uso del contenido 2](https://prensa.presidencia.cl/)
+
+:link: [robots.txt 1](https://wikipedia.org/)
+
+:link: [robots.txt 2](https://www.oas.org/)
+
+## Actividades
+
+Durante el taller realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo", por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos
+
+### Ejemplo 1: extraer el texto de una página web
 
 * 🌐 La página de la que extraeremos los datos: <https://prensa.presidencia.cl/discurso.aspx?id=308562>
 * 📄 El código que escribimos:
 
-## Ejemplo 2: interactuar con una API
+### Ejemplo 2: interactuar con una API
 
 * 🌐 La url con la que trabajaremos: <https://www.biobiochile.cl/lista/api/buscador?offset=0&search=trump+venezuela&intervalo=&orden=ultimas>
 * 📄 El código que escribimos:
 
-## Código de ejemplo para seguir explorando después del taller: 
+## Código de ejemplo para seguir explorando después del taller
 
 ¡Pronto!
 
@@ -23,5 +56,5 @@ En este documento se encuentran los enlaces para acceder a los materiales que ut
 
 * [Programming Historian](https://programminghistorian.org/)
 * [Analizar Datos Políticos](https://arcruz0.github.io/libroadp/) (Cruz & Urdinez, 2021)
-* Participar en las actividades de las comunidades de R y Python (PyCon, PyDay, LatinR, R-Ladies, PyLadies, etc.)
+* Participar en las actividades de las comunidades de R (LatinR, R-Ladies, etc.)
 
