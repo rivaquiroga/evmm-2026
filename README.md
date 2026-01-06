@@ -41,12 +41,12 @@ Durante el taller realizaremos una serie de actividades para poner en práctica 
 ### Ejemplo 1: extraer el texto de una página web
 
 * 🌐 La página de la que extraeremos los datos: <https://prensa.presidencia.cl/discurso.aspx?id=308562>
-* 📄 El código que escribimos:
+* 📄 [El código que escribimos](https://www.dropbox.com/scl/fi/1r0kx1zjxcb90hpip1wua/01-web-scraping.R?rlkey=1iug18wjms4evafvmlvqw8271&dl=0)
 
 ### Ejemplo 2: interactuar con una API
 
 * 🌐 La url con la que trabajaremos: <https://www.biobiochile.cl/lista/api/buscador?offset=0&search=trump+venezuela&intervalo=&orden=ultimas>
-* 📄 El código que escribimos:
+* 📄 [El código que escribimos](https://www.dropbox.com/scl/fi/m4nbhqwhwwq2vpec2dzuw/02-trabajo-con-apis.R?rlkey=673q624ug4di0bi5kduqzd4x3&dl=0)
 
 ## Código de ejemplo para seguir explorando después del taller
 
