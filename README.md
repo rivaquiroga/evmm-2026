@@ -20,7 +20,7 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 
 A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para discutir algunas ideas. 
 
-:link: [Sitio web estático](https://prensa.presidencia.cl/)
+:link: [Sitio web estático](https://tramitacion.senado.cl/appsenado/index.php?mo=lobby&ac=GetReuniones&anho=2025)
 
 :link: [Sitio web dinámico](https://www.camara.cl/transparencia/asesoriasexternasgral.aspx)
 
