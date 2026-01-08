@@ -48,13 +48,20 @@ Durante el taller realizaremos una serie de actividades para poner en práctica 
 * 🌐 La url con la que trabajaremos: <https://www.biobiochile.cl/lista/api/buscador?offset=0&search=trump+venezuela&intervalo=&orden=ultimas>
 * 📄 [El código que escribimos](https://www.dropbox.com/scl/fi/m4nbhqwhwwq2vpec2dzuw/02-trabajo-con-apis.R?rlkey=673q624ug4di0bi5kduqzd4x3&dl=0)
 
-## Código de ejemplo para seguir explorando después del taller
+Dependiendo del navegador que utilices, los resultados obtenidos con esa url se pueden visualizar un poco distinto. Así se ven en Firefox:
 
-¡Pronto!
+<img src="img/firefox.png" width="400">
+
+Y así se ven en otros navegadores:
+
+<img src="img/chrome.png" width="400">
+
 
 ## Recursos adicionales para seguir aprendiendo en el futuro
 
 * [Programming Historian](https://programminghistorian.org/)
+    * Hay un tutorial que cubre lo que vimos de web scraping durante la sesión: <https://programminghistorian.org/es/lecciones/introduccion-al-web-scraping-usando-r>
+    
 * [Analizar Datos Políticos](https://arcruz0.github.io/libroadp/) (Cruz & Urdinez, 2021)
 * Participar en las actividades de las comunidades de R (LatinR, R-Ladies, etc.)
 
